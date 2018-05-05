@@ -1,4 +1,4 @@
-# Choc-An Data Proccesing Software
+# Choc-An Data Processing Software
 ## *By Mohammed (Zack) Salah, Bader Alshaya, Boodhi Alshaikh, and Dhwanil Chokshi*
 
 # Technologies
