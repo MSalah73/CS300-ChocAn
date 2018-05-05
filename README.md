@@ -3,12 +3,12 @@
 
 # Technologies
 * **Data Structures**: *BST and Linear Linked List*
-* **Concepts**: *built using OOP concepts, Waterfall development amd continuous integration*
+* **Concepts**: *built using OOP concepts, Waterfall development and continuous integration*
 * **Languages**: *C++*
 
 # Installation
 ------------
-Install *ChocAn software* by cloning the repository in command line and compile it with g++ GNU compiler using Make. Make will create two files test and choan. 
+Install *ChocAn software* by cloning the repository in the command line and compile it with g++ GNU compiler using Make. Make will create two executable objects: test and choan. 
 
 # License
 -------
