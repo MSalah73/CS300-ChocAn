@@ -1,5 +1,5 @@
 # Choc-An Data Processing Software
-## *By Mohammed (Zack) Salah, Bader Alshaya, Boodhi Alshaikh, and Dhwanil Chokshi*
+## *By Mohammed (Zack) Salah, Bader Alshaya, Abdullah Alshaikh, and Dhwanil Chokshi*
 
 # Technologies
 * **Data Structures**: *BST and Linear Linked List*
@@ -12,4 +12,4 @@ Install *ChocAn software* by cloning the repository in the command line and comp
 
 # License
 -------
-Copyright (c) 2017 **Mohammed (Zack) Salah, Bader Alshaya, Boodhi Alshaikh, and Dhwanil Chokshi**
+Copyright (c) 2017 **Mohammed (Zack) Salah, Bader Alshaya, Abdullah Alshaikh, and Dhwanil Chokshi**
