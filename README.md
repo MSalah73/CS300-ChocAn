@@ -1,5 +1,5 @@
 # Choc-An Data Processing Software
-## *By Mohammed (Zack) Salah, Bader Alshaya, Abdullah Alshaikh, and Dhwanil Chokshi*
+## *By Mohammed Salah, Bader Alshaya, Abdullah Alshaikh, and Dhwanil Chokshi*
 
 # Technologies
 * **Data Structures**: *BST and Linear Linked List*
